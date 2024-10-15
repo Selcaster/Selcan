@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
@@ -11,10 +11,15 @@ namespace Classes
     {
         public string BrandName { get; set; }
         public double Price { get; set; }
-    }
-    public Product(string BrandName, double Price) 
-    {
-        this.Brandname = BrandName;
-        this.Price = Price;
+        public Product()
+        {
+            this.BrandName = BrandName;
+            this.Price = Price;
+        }
+        public Product(string BrandName, double Price)
+        {
+            this.BrandName = BrandName;
+            this.Price = Price;
+        }
     }
 }
