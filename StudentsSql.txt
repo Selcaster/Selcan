@@ -1,0 +1,21 @@
+--CREATE DATABASE AB108
+--USE AB108
+--CREATE TABLE Students
+--(
+--	Id INT IDENTITY PRIMARY KEY,
+--	[Name] nvarchar(15) NOT NULL,
+--	Surname nvarchar(20) DEFAULT 'XXX',
+--	Age tinyint CHECK (Age>=18),
+--	AvgPoint FLOAT
+--)
+--INSERT INTO Students
+--VALUES 
+--(N'Ruslan',N'Bayramov', 19, 85.5),
+--(N'Nəcibə',N'Rəsulova', 20, 90.1),
+--(N'Səbuhi',N'Sultanlı', 21, 90)
+--SELECT * FROM Students
+--WHERE AvgPoint between 51 and 100
+--SELECT * FROM Students
+--WHERE AvgPoint between 51 and 90
+--SELECT * FROM Students
+--WHERE [Name] LIKE 'A%i';
