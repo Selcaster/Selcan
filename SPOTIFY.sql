@@ -1,0 +1,88 @@
+--CREATE DATABASE Spotif
+--USE Spotif
+--CREATE TABLE Users (
+--    Id INT PRIMARY KEY,
+--    Name VARCHAR(100),
+--    Surname VARCHAR(100),
+--    Username VARCHAR(100) UNIQUE,
+--    Password VARCHAR(255),
+--    Gender VARCHAR(10)
+--);
+--CREATE TABLE Roles (
+--    Id INT PRIMARY KEY,
+--    Type VARCHAR(50)
+--);
+--CREATE TABLE Artists (
+--    Id INT PRIMARY KEY,
+--    Name VARCHAR(100),
+--    Surname VARCHAR(100),
+--    Birthday DATE,
+--    Gender VARCHAR(10)
+--);
+--CREATE TABLE Categories (
+--    Id INT PRIMARY KEY,
+--    Name VARCHAR(100)
+--);
+--CREATE TABLE Musics (
+--    Id INT PRIMARY KEY,
+--    Name VARCHAR(100),
+--    Duration TIME,
+--    CategoryId INT,
+--    ArtistId INT,
+--    FOREIGN KEY (CategoryId) REFERENCES Categories(Id),
+--    FOREIGN KEY (ArtistId) REFERENCES Artists(Id)
+--);
+--CREATE TABLE Playlists (
+--    Id INT PRIMARY KEY,
+--    UserId INT,
+--    Name VARCHAR(100),
+--    FOREIGN KEY (UserId) REFERENCES Users(Id)
+--);
+--CREATE TABLE PlaylistMusics (
+--    PlaylistId INT,
+--    MusicId INT,
+--    PRIMARY KEY (PlaylistId, MusicId),
+--    FOREIGN KEY (PlaylistId) REFERENCES Playlists(Id),
+--    FOREIGN KEY (MusicId) REFERENCES Musics(Id)
+--);
+
+--Mahninin datasi veren view(tables da yox viewsda save olunub)
+--CREATE VIEW SongInfo AS
+--SELECT 
+--    m.Id AS SongId,
+--    m.Name AS SongName,
+--    m.Duration,
+--    c.Name AS CategoryName,
+--    CONCAT(a.Name, ' ', a.Surname) AS ArtistName
+--FROM Musics m
+--JOIN Categories c ON m.CategoryId = c.Id
+--JOIN Artists a ON m.ArtistId = a.Id;
+
+--playlistdeki mahnilar
+--SELECT 
+--    pm.MusicId,
+--    m.Name AS MusicName,
+--    m.Duration
+--FROM PlaylistMusics pm
+--JOIN Musics m ON pm.MusicId = m.Id
+--JOIN Playlists p ON pm.PlaylistId = p.Id
+--JOIN Users u ON p.UserId = u.Id
+--WHERE u.Username = 'SelcasterStratocaster';
+
+--uzunluga gore siralama
+--SELECT 
+--    m.Name AS MusicName,
+--    m.Duration
+--FROM Musics m
+--ORDER BY m.Duration;
+
+--en cox mahnili mugenni
+--SELECT TOP 1
+--    a.Name,
+--    a.Surname,
+--    COUNT(m.Id) AS MusicCount
+--FROM Artists a
+--JOIN Musics m ON a.Id = m.ArtistId
+--GROUP BY a.Name, a.Surname, a.Id
+--ORDER BY MusicCount DESC; --tutorialdan baxdim buna
+--emelli eziyyet cekdim maraqli tapsiriq idi.
