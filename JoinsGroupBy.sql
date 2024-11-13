@@ -1,0 +1,109 @@
+--Cədvəl :
+--Vezife tablei - Ad
+--İshchi tablei - Ad, Soyad, AtaAdi, VezifeId, Maash
+--Filial tablei - Ad
+--Mehsul tablei - Ad, Alishqiymet, Satishqiymet
+--Satish tablei - MehsulId, İshchiId, FilialId, SatishDate)
+--Sorğular : 
+--1) Satış cədvəlində işçilərin , satılan məhsulların, satışın olduğu filialın, məhsulun alış və satış qiyməti yazılsın.
+--2) Bütün satışların cəmini tap.
+--3) Cari ayda məhsul satışından gələn yekun məbləği tap
+--4) Hər işçinin satdığı məhsul sayını tap
+--5) Bu gün üzrə ən çox məhsul satılan filialı tap.
+--6) Cari ayda ən çox satılan məhsulu tap.
+--CREATE DATABASE SHIRKET
+--USE SHIRKET
+--CREATE TABLE Vezife (
+--    Id INT IDENTITY(1,1) PRIMARY KEY,
+--    Ad VARCHAR(100)
+--);
+--CREATE TABLE Ishchi (
+--    Id INT IDENTITY(1,1) PRIMARY KEY,
+--    Ad VARCHAR(100),
+--    Soyad VARCHAR(100),
+--    AtaAdi VARCHAR(100),
+--    VezifeId INT,
+--    Maash DECIMAL(10, 2),
+--    FOREIGN KEY (VezifeId) REFERENCES Vezife(Id)
+--);
+--CREATE TABLE Filial (
+--    Id INT IDENTITY(1,1) PRIMARY KEY,
+--    Ad VARCHAR(100)
+--);
+--CREATE TABLE Mehsul (
+--    Id INT IDENTITY(1,1) PRIMARY KEY,
+--    Ad VARCHAR(100),
+--    Alishqiymet DECIMAL(10, 2),
+--    Satishqiymet DECIMAL(10, 2)
+--);
+--CREATE TABLE Satish (
+--    Id INT IDENTITY(1,1) PRIMARY KEY,
+--    MehsulId INT,
+--    IshchiId INT,
+--    FilialId INT,
+--    SatishDate DATE,
+--    FOREIGN KEY (MehsulId) REFERENCES Mehsul(Id),
+--    FOREIGN KEY (IshchiId) REFERENCES Ishchi(Id),
+--    FOREIGN KEY (FilialId) REFERENCES Filial(Id)
+--);
+
+--1) Satış cədvəlində işçilərin , satılan məhsulların, satışın olduğu filialın, məhsulun alış və satış qiyməti yazılsın.
+--SELECT 
+--    i.Ad AS IshchiAd,
+--    i.Soyad AS IshchiSoyad,
+--    m.Ad AS MehsulAd,
+--    m.Alishqiymet,
+--    m.Satishqiymet,
+--    f.Ad AS FilialAd,
+--    s.SatishDate
+--FROM Satish s
+--JOIN Mehsul m ON s.MehsulId = m.Id
+--JOIN Ishchi i ON s.IshchiId = i.Id
+--JOIN Filial f ON s.FilialId = f.Id;
+
+--2) Bütün satışların cəmini tap.
+--SELECT SUM(m.Satishqiymet) AS SatishCemi --tutorialda baxdim
+--FROM Satish s
+--JOIN Mehsul m ON s.MehsulId = m.Id;
+
+
+--3) Cari ayda məhsul satışından gələn yekun məbləği tap
+--SELECT SUM(m.Satishqiymet) AS CariAyQazanci
+--FROM Satish s
+--JOIN Mehsul m ON s.MehsulId = m.Id
+--WHERE MONTH(s.SatishDate) = MONTH(GETDATE()) 
+--AND YEAR(s.SatishDate) = YEAR(GETDATE());
+
+
+--4) Hər işçinin satdığı məhsul sayını tap
+--SELECT 
+--    i.Ad AS IshchiAd,
+--    i.Soyad AS IshchiSoyad,
+--    COUNT(s.MehsulId) AS SatilanMehsulSayi
+--FROM Satish s
+--JOIN Ishchi i ON s.IshchiId = i.Id
+--GROUP BY i.Ad, i.Soyad;
+
+
+--5) Bu gün üzrə ən çox məhsul satılan filialı tap.
+--SELECT TOP 1
+--    f.Ad AS FilialAd,
+--    COUNT(s.MehsulId) AS SatilanMehsulSayi
+--FROM Satish s
+--JOIN Filial f ON s.FilialId = f.Id
+--WHERE s.SatishDate = CAST(GETDATE() AS DATE)
+--GROUP BY f.Ad
+--ORDER BY SatilanMehsulSayi DESC;
+
+
+--6) Cari ayda ən çox satılan məhsulu tap.
+--SELECT TOP 1
+--    m.Ad AS MehsulAd,
+--    COUNT(s.MehsulId) AS UmumiSatis
+--FROM Satish s
+--JOIN Mehsul m ON s.MehsulId = m.Id
+--WHERE MONTH(s.SatishDate) = MONTH(GETDATE()) 
+--AND YEAR(s.SatishDate) = YEAR(GETDATE())
+--GROUP BY m.Ad
+--ORDER BY UmumiSatis DESC;
+--aglimi itirecem basim beynim getdi hüüüü
