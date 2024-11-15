@@ -33,3 +33,22 @@ BEGIN
         WHERE Id = @Id;
     END
 END;
+DROP PROCEDURE usp_DeleteMusic ;
+CREATE PROCEDURE usp_DeleteMusic
+    @Id INT
+AS
+BEGIN
+    DECLARE @IsDeleted bit;
+    SELECT @IsDeleted = IsDeleted FROM Musics WHERE Id = @Id;
+
+    IF @IsDeleted = 0
+    BEGIN
+        UPDATE Musics
+        SET IsDeleted = 1
+        WHERE Id = @Id;
+    END
+	ELSE--serti tam odeyir
+	BEGIN
+		DELETE FROM MUSICS WHERE @ID=ID;
+	END
+END;
