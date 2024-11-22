@@ -1,0 +1,1345 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\about.html",
+      "PackagePath": "staticwebassets\\uniqlo\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\blog-details.html",
+      "PackagePath": "staticwebassets\\uniqlo\\blog-details.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\blog.html",
+      "PackagePath": "staticwebassets\\uniqlo\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\cart.html",
+      "PackagePath": "staticwebassets\\uniqlo\\cart.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\checkout.html",
+      "PackagePath": "staticwebassets\\uniqlo\\checkout.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\contact.html",
+      "PackagePath": "staticwebassets\\uniqlo\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\core.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\core.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\custom.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\plugins.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\plugins.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\plugins\\AjaxLoader.gif",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\plugins\\AjaxLoader.gif"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\plugins\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\plugins\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\plugins\\animate-slider.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\plugins\\animate-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\plugins\\animate.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\plugins\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\plugins\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\plugins\\fonts\\slick.eot"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\plugins\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\plugins\\fonts\\slick.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\plugins\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\plugins\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\plugins\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\plugins\\fonts\\slick.woff"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\plugins\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\plugins\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\plugins\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\plugins\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\plugins\\images\\ui-icons_777620_256x240.png",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\plugins\\images\\ui-icons_777620_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\plugins\\images\\ui-icons_777777_256x240.png",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\plugins\\images\\ui-icons_777777_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\plugins\\images\\ui-icons_cc0000_256x240.png",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\plugins\\images\\ui-icons_cc0000_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\plugins\\images\\ui-icons_ffffff_256x240.png",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\plugins\\images\\ui-icons_ffffff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\plugins\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\plugins\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\plugins\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\plugins\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\plugins\\meanmenu.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\plugins\\meanmenu.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\plugins\\slick-theme.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\plugins\\slick-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\plugins\\slick.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\plugins\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\shortcode\\default.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\shortcode\\default.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\shortcode\\footer.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\shortcode\\footer.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\shortcode\\header.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\shortcode\\header.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\shortcode\\shortcodes.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\shortcode\\shortcodes.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\shortcode\\slider.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\shortcode\\slider.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\style-customizer.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\style-customizer.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\uniqlo\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\fonts\\Material-Design-Iconic-Font.eot",
+      "PackagePath": "staticwebassets\\uniqlo\\fonts\\Material-Design-Iconic-Font.eot"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\fonts\\Material-Design-Iconic-Font.svg",
+      "PackagePath": "staticwebassets\\uniqlo\\fonts\\Material-Design-Iconic-Font.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\fonts\\Material-Design-Iconic-Font.ttf",
+      "PackagePath": "staticwebassets\\uniqlo\\fonts\\Material-Design-Iconic-Font.ttf"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\fonts\\Material-Design-Iconic-Font.woff",
+      "PackagePath": "staticwebassets\\uniqlo\\fonts\\Material-Design-Iconic-Font.woff"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\fonts\\Material-Design-Iconic-Font.woff2",
+      "PackagePath": "staticwebassets\\uniqlo\\fonts\\Material-Design-Iconic-Font.woff2"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\uniqlo\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\uniqlo\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\uniqlo\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\uniqlo\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\besr-product\\1.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\besr-product\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\bg\\1.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\bg\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\bg\\2.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\bg\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\bg\\3.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\bg\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\bg\\4.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\bg\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\bg\\5.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\bg\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\bg\\6.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\bg\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\blog\\big-images\\1.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\blog\\big-images\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\blog\\blog-img\\1.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\blog\\blog-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\blog\\blog-img\\2.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\blog\\blog-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\blog\\blog-img\\3.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\blog\\blog-img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\blog\\blog-img\\4.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\blog\\blog-img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\blog\\blog-img\\5.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\blog\\blog-img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\blog\\blog-img\\6.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\blog\\blog-img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\blog\\sm-img\\1.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\blog\\sm-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\blog\\sm-img\\2.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\blog\\sm-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\blog\\sm-img\\3.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\blog\\sm-img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\blog\\sm-img\\4.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\blog\\sm-img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\blog\\sm-img\\5.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\blog\\sm-img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\blog\\sm-img\\6.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\blog\\sm-img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\brand\\1.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\brand\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\brand\\2.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\brand\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\brand\\3.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\brand\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\brand\\4.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\brand\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\brand\\5.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\brand\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\comment\\1.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\comment\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\comment\\2.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\comment\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\comment\\3.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\comment\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\feature-img\\1.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\feature-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\feature-img\\2.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\feature-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\feature-img\\3.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\feature-img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\feature-img\\4.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\feature-img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\icons\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\icons\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\icons\\close-20.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\icons\\close-20.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\icons\\close.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\icons\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\icons\\loading.gif",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\icons\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\icons\\map.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\icons\\map.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\icons\\next.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\icons\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\icons\\prev.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\icons\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\icons\\select-option-white.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\icons\\select-option-white.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\icons\\select-option.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\icons\\select-option.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\icons\\send-2.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\icons\\send-2.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\icons\\send.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\icons\\send.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\logo\\2.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\logo\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\logo\\Thumbs.db",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\logo\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\logo\\uniqlo-large.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\logo\\uniqlo-large.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\logo\\uniqlo.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\logo\\uniqlo.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\new-product\\1.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\new-product\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\new-product\\2.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\new-product\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\new-product\\3.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\new-product\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\new-product\\4.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\new-product\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\new-product\\5.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\new-product\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\new-product\\6.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\new-product\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\new-product\\7.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\new-product\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\new-product\\8.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\new-product\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\new-product\\9.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\new-product\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\others\\1.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\others\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro-2\\1.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro-2\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro-2\\10.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro-2\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro-2\\11.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro-2\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro-2\\12.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro-2\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro-2\\13.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro-2\\13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro-2\\14.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro-2\\14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro-2\\15.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro-2\\15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro-2\\16.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro-2\\16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro-2\\17.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro-2\\17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro-2\\18.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro-2\\18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro-2\\19.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro-2\\19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro-2\\2.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro-2\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro-2\\20.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro-2\\20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro-2\\3.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro-2\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro-2\\4.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro-2\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro-2\\5.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro-2\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro-2\\6.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro-2\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro-2\\7.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro-2\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro-2\\8.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro-2\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro-2\\9.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro-2\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro\\1.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro\\2.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\popular-pro\\3.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\popular-pro\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\portfolio\\width-variation-2\\1.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\portfolio\\width-variation-2\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\portfolio\\width-variation-2\\2.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\portfolio\\width-variation-2\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\portfolio\\width-variation-2\\3.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\portfolio\\width-variation-2\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\portfolio\\width-variation-2\\4 - Copy (3).jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\portfolio\\width-variation-2\\4 - Copy (3).jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\portfolio\\width-variation-2\\4.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\portfolio\\width-variation-2\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\portfolio\\width-variation-2\\5.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\portfolio\\width-variation-2\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\portfolio\\width-variation-2\\6.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\portfolio\\width-variation-2\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\portfolio\\width-variation-2\\7.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\portfolio\\width-variation-2\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\portfolio\\width-variation-2\\8.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\portfolio\\width-variation-2\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\portfolio\\width-variation-2\\9.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\portfolio\\width-variation-2\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\portfolio\\width-variation\\1.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\portfolio\\width-variation\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\portfolio\\width-variation\\10.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\portfolio\\width-variation\\10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\portfolio\\width-variation\\11.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\portfolio\\width-variation\\11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\portfolio\\width-variation\\12.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\portfolio\\width-variation\\12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\portfolio\\width-variation\\2.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\portfolio\\width-variation\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\portfolio\\width-variation\\3.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\portfolio\\width-variation\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\portfolio\\width-variation\\4.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\portfolio\\width-variation\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\portfolio\\width-variation\\5.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\portfolio\\width-variation\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\portfolio\\width-variation\\6.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\portfolio\\width-variation\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\portfolio\\width-variation\\7.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\portfolio\\width-variation\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\portfolio\\width-variation\\8.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\portfolio\\width-variation\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\portfolio\\width-variation\\9.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\portfolio\\width-variation\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product-3\\1.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product-3\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product-3\\2.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product-3\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product-3\\3.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product-3\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product-3\\4.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product-3\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product-3\\5.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product-3\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product-3\\6.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product-3\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product-3\\7.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product-3\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product-details\\big-img\\1.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product-details\\big-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product-details\\big-img\\2.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product-details\\big-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product-details\\big-img\\3.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product-details\\big-img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product-details\\big-img\\4.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product-details\\big-img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product-details\\small-img\\1.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product-details\\small-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product-details\\small-img\\2.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product-details\\small-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product-details\\small-img\\3.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product-details\\small-img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product-details\\small-img\\4.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product-details\\small-img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\1.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\10.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\11.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\12.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\13.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\14.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\15.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\16.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\17.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\18.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\19.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\2.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\20.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\21.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\22.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\23.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\23.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\24.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\24.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\25.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\25.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\26.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\26.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\27.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\27.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\28.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\28.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\29.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\29.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\3.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\30.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\30.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\31.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\31.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\32.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\32.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\33.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\34.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\34.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\35.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\35.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\36.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\36.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\37.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\37.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\38.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\38.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\39.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\39.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\4.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\40.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\40.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\41.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\41.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\42.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\42.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\43.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\43.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\5.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\6.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\7.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\8.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\9.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\big-img\\1.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\big-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\sm-img\\1.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\sm-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\sm-img\\1.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\sm-img\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\sm-img\\2.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\sm-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\sm-img\\3.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\sm-img\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\product\\sm-img\\4.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\product\\sm-img\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\review\\1.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\review\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\review\\2.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\review\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\sidebar-img\\1.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\sidebar-img\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\sidebar-img\\2.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\sidebar-img\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\sidebar-img\\3.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\sidebar-img\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\sidebar-img\\4.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\sidebar-img\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\sidebar-img\\5.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\sidebar-img\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\sidebar-img\\6.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\sidebar-img\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\sidebar-img\\7.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\sidebar-img\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\sidebar-img\\8.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\sidebar-img\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\slider\\bg\\1.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\slider\\bg\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\slider\\bg\\2.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\slider\\bg\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\slider\\bg\\2.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\slider\\bg\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\slider\\bg\\3.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\slider\\bg\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\slider\\bg\\4.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\slider\\bg\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\slider\\bg\\5.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\slider\\bg\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\slider\\bg\\6.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\slider\\bg\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\slider\\bg\\7.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\slider\\bg\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\slider\\fornt-img\\1.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\slider\\fornt-img\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\slider\\fornt-img\\man-style.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\slider\\fornt-img\\man-style.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\team\\1.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\team\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\team\\2.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\team\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\team\\3.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\team\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\team\\4.jpg",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\team\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\test\\client\\1.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\test\\client\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\test\\client\\2.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\test\\client\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\images\\test\\client\\3.png",
+      "PackagePath": "staticwebassets\\uniqlo\\images\\test\\client\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\index-10.html",
+      "PackagePath": "staticwebassets\\uniqlo\\index-10.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\index-2.html",
+      "PackagePath": "staticwebassets\\uniqlo\\index-2.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\index-3.html",
+      "PackagePath": "staticwebassets\\uniqlo\\index-3.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\index-4.html",
+      "PackagePath": "staticwebassets\\uniqlo\\index-4.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\index-5.html",
+      "PackagePath": "staticwebassets\\uniqlo\\index-5.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\index-6.html",
+      "PackagePath": "staticwebassets\\uniqlo\\index-6.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\index-7.html",
+      "PackagePath": "staticwebassets\\uniqlo\\index-7.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\index-8.html",
+      "PackagePath": "staticwebassets\\uniqlo\\index-8.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\index-9.html",
+      "PackagePath": "staticwebassets\\uniqlo\\index-9.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\index.html",
+      "PackagePath": "staticwebassets\\uniqlo\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\uniqlo\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\js\\main.js",
+      "PackagePath": "staticwebassets\\uniqlo\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\uniqlo\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\uniqlo\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\uniqlo\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\js\\style-customizer.js",
+      "PackagePath": "staticwebassets\\uniqlo\\js\\style-customizer.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\js\\vendor\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\uniqlo\\js\\vendor\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\js\\vendor\\jquery-migrate-3.3.2.min.js",
+      "PackagePath": "staticwebassets\\uniqlo\\js\\vendor\\jquery-migrate-3.3.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\js\\vendor\\jquery.waypoints.js",
+      "PackagePath": "staticwebassets\\uniqlo\\js\\vendor\\jquery.waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\js\\vendor\\modernizr-3.11.2.min.js",
+      "PackagePath": "staticwebassets\\uniqlo\\js\\vendor\\modernizr-3.11.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\uniqlo\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\login-register.html",
+      "PackagePath": "staticwebassets\\uniqlo\\login-register.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\product-details.html",
+      "PackagePath": "staticwebassets\\uniqlo\\product-details.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\shop-sidebar.html",
+      "PackagePath": "staticwebassets\\uniqlo\\shop-sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\shop.html",
+      "PackagePath": "staticwebassets\\uniqlo\\shop.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\style.css",
+      "PackagePath": "staticwebassets\\uniqlo\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\team.html",
+      "PackagePath": "staticwebassets\\uniqlo\\team.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\Homework\\uniqlo\\wwwroot\\uniqlo\\wishlist.html",
+      "PackagePath": "staticwebassets\\uniqlo\\wishlist.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Uniqlo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Uniqlo.props",
+      "PackagePath": "build\\Uniqlo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Uniqlo.props",
+      "PackagePath": "buildMultiTargeting\\Uniqlo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Uniqlo.props",
+      "PackagePath": "buildTransitive\\Uniqlo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
